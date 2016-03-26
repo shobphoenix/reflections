@@ -1,0 +1,36 @@
+Q1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It considerably reduced the amount of information that I needed to look at to find the bug.
+
+
+Q2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+1. I would be more willing to try out new modifications, knowing that I can revert to a previously working version without much hassle.
+2. It would be easier to see how the design and implementation of a program evolved.
+3. It might be easier to test particular sections of a project and compare the results with older implementations.
+
+
+Q3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros:
+1. Control & flexibility.
+Cons:
+1. Building a new habit.
+2. Easy to forget to commit.
+3. Will have to make yet another choice/decision on when/when not to commit.
+4. Learning new command(s) to commit and interact with the git system.
+
+
+Q4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git is specifically written for handling code and when we code we often make changes to multiple files to make a single logical change.
+It's more like Git keeps track of a project's revisions whereas Google Docs etc., keep track of a single file's revisions.
+
+
+Q5. How can you use the commands git log and git diff to view the history of files?
+I can use git log to find the particular version I'm interested in and use git diff to see the changes it has from it's previous version.
+
+
+Q6. How might using version control make you more confident to make changes that could break something?
+Like I said earlier in the answer to Q2, I would be more willing to try out new modifications, knowing that I can revert to a previously working version without much hassle.
+I'll also add to that Git also makes it very easy to figure out the likely places to look when debugging.
+
+
+Q7. Now that you have your workspace set up, what do you want to try using Git for?
+For this file.
