@@ -17,3 +17,7 @@ Usage:
 
 Q4. What is the benefit of having a copy of the last known state of the remote stored locally?
 To get an idea about how far (in terms of modifications) we are from remote.
+
+
+Q5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Maybe google drive or drpbox. Learning curve is easier but branching etc. would be harder or impractical.
