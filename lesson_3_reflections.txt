@@ -13,3 +13,7 @@ Usage:
 - Fork: When I want to work on other people's projects and don't have permission to modify their repository.
 - Clone: When keeping a remote.
 - Branches: I'll use this everytime I want to experiment with the codebase.
+
+
+Q4. What is the benefit of having a copy of the last known state of the remote stored locally?
+To get an idea about how far (in terms of modifications) we are from remote.
