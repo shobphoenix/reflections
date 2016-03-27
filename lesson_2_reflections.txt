@@ -22,3 +22,10 @@ By making it easy to see which commits are reachable and which are not.
 
 Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Result is the code that has all the work done in the two branches. We represent them that way because it makes it easier to visualize.
+
+
+Q7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:
+1. Saves time and hassles
+Cons:
+1. Chance for making the code bulky and repititive.
